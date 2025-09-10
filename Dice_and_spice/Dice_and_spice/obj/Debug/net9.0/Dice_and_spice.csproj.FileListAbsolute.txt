@@ -1,5 +1,0 @@
-C:\Users\minep\source\repos\Dice_and_spice\Dice_and_spice\obj\Debug\net9.0\Dice_and_spice.csproj.AssemblyReference.cache
-C:\Users\minep\source\repos\Dice_and_spice\Dice_and_spice\obj\Debug\net9.0\Dice_and_spice.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\minep\source\repos\Dice_and_spice\Dice_and_spice\obj\Debug\net9.0\Dice_and_spice.AssemblyInfoInputs.cache
-C:\Users\minep\source\repos\Dice_and_spice\Dice_and_spice\obj\Debug\net9.0\Dice_and_spice.AssemblyInfo.cs
-C:\Users\minep\source\repos\Dice_and_spice\Dice_and_spice\obj\Debug\net9.0\Dice_and_spice.csproj.CoreCompileInputs.cache
